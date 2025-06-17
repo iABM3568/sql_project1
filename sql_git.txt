@@ -1,0 +1,1 @@
+This text is being created in sql_project1 to initialize git.
